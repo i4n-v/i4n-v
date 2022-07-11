@@ -30,8 +30,6 @@
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&color=0D1117&logoColor=23FF2D20)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&color=0D1117&logoColor=23777BB4)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&color=0D1117&logo=mysql&logoColor=white)
-
-### Other Knowledge:
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
 <div align="center">
