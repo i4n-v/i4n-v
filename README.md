@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3042&height=180&section=header&text=IAN VINÍCIUS&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4892BC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ian+Vinícius;I+from+Recife,+PE;+I+am+web+developer;I+study+systems+development+at+IFPE;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4892BC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+IAN+VINÍCIUS;I+AM+FROM+RECIFE,+PE;+I+AM+WEB+DEVELOPER;I+STUDY+SYSTEMS+TO+INTERNET+AT+IFPE;BE+WELCOME!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=i4n-v&show_icons=true&count_private=true&hide_border=true&title_color=4892BC&icon_color=4892BC&text_color=c9d1d9&bg_color=0d1117" alt="Ian Vinícius github stats" /> 
