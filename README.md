@@ -25,6 +25,7 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-0D1117.svg?style=for-the-badge&logo=tailwind-css&logoColor=2338B2AC)
  
 ### Others skills:
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&color=0D1117&logo=svelte&logoColor=23f1413d)
