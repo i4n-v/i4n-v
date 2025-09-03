@@ -20,7 +20,7 @@ I developed and designed the following solutions in the health and education tec
 
 - 🍎 [Ibirabike App Store](https://apps.apple.com/us/app/ibirabike/id6444320108) - 100K+ Downloads
 - 🤖 [Ibirabike Play Store](https://play.google.com/store/apps/details?id=com.ibirabike.user&hl=en_US)
-- 🩺 - T+Saúde / T+Saúde Busca Ativa - 100+ health units
+- 🩺 T+Saúde / T+Saúde Busca Ativa - 100+ health units
 - 🏥 RHP Gestão Cirúgica
 - 📚 Proz ERP / JoyClass ERP - 70K+ students 
 
